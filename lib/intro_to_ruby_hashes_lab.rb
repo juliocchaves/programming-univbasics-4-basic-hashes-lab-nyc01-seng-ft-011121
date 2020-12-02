@@ -11,6 +11,6 @@ def pioneer
 end
 
 
-def id_hash_generator(5)
+def id_hash_generator(number)
   hash = {:id => 5}
 end
